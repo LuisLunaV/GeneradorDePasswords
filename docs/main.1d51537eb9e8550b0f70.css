@@ -7,5 +7,7 @@ html, body{
 }
 
 .container-btn{
- padding: 0px 290px;
+ display: flex;
+ justify-content: center;
+ gap: 5px;
 }
