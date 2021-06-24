@@ -1,13 +1,3 @@
-# Webpack Starter
-Este esl proyecto inicial para crear
-apliaciones utilizando webpack.
+# Generador de password's
+Este es una aplicacion que nos brinda un password de 10 digitos.
 
-### Notas:
-Recuerden reconstruir los modulos de Node
-```
-npm install
-```
-Y para construir el build, recuerden:
-```
-npm run build 
-``` 
